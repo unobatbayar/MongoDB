@@ -18,6 +18,6 @@ Create an username and password with Read/Write and use them in below code to co
 
 # Run
 
-mongo "mongodb://airline-shard-00-00-tq7q4.mongodb.net:27017,airline-shard-00-01-tq7q4.mongodb.net:27017,airline-shard-00-02-tq7q4.mongodb.net:27017/test?replicaSet=Airline-shard-0" --ssl --authenticationDatabase admin --username <USERNAME> --password <PASSWORD>
+      mongo "mongodb://airline-shard-00-00-tq7q4.mongodb.net:27017,airline-shard-00-01-tq7q4.mongodb.net:27017,airline-shard-00-02-tq7q4.mongodb.net:27017/test?replicaSet=Airline-shard-0" --ssl --authenticationDatabase admin --username <USERNAME> --password <PASSWORD>
       
     
