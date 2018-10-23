@@ -14,7 +14,7 @@
 # -- Cloud --
 
 MongoDB Atlas requires no payments and can be used instantly upon creating an account -> https://cloud.mongodb.com
-Create an username and password with Read/Write and use them in below code to connect directly. Make sure you add your current IP address, otherwise it will be rejected.
+Create an username and password with Read/Write permission and use them in below code to connect directly. Make sure you add your current IP address, otherwise it will be rejected.
 
 # Run
 
