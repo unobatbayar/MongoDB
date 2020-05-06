@@ -1,7 +1,7 @@
 <div align="center">
   <h1><code>mongo-db</code></h1>
 
-  <strong>Core computer science algorithms to build your foundation as a software engineer.</strong>
+  <strong>Learning Mongo-DB.</strong>
 
 <h3>
     <a href="https://github.com/unobatbayar/mongo-db/pull/new/master">Contribute</a>
@@ -32,4 +32,6 @@ Create an username and password with Read/Write permission and use them in below
 
       mongo "mongodb://airline-shard-00-00-tq7q4.mongodb.net:27017,airline-shard-00-01-tq7q4.mongodb.net:27017,airline-shard-00-02-tq7q4.mongodb.net:27017/test?replicaSet=Airline-shard-0" --ssl --authenticationDatabase admin --username <USERNAME> --password <PASSWORD>
       
-    
+<sub>Give feedback, ideas and more: <br> <sub> 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/unobatbayar.svg?style=social&label=Follow%20%40unobatbayar)](https://twitter.com/unobatbayar)
+
